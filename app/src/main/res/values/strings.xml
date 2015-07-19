@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crazy Maze</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_over">GameOver</string>
+    <string name="title_activity_level1">Level1</string>
+    <string name="title_activity_level_selector">LevelSelector</string>
+    <string name="title_activity_level_shifter">LevelShifter</string>
+    <string name="title_activity_level2">Level2</string>
+    <string name="title_activity_level3">Level3</string>
+    <string name="title_activity_you_won">YouWon</string>
+    <string name="title_activity_intro">Intro</string>
+</resources>
